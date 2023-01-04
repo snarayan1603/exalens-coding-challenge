@@ -44,7 +44,7 @@ Now check if matchCount is equals to reqs(required buildings)
 
 
 when we check all block then return best match building location and in that building we'd have to walk less as compare to other buildings.
-
+return index
 
 
 Sample Data used
